@@ -1,17 +1,13 @@
-# token
+# python_projects
+Repository for (codebasics youtube channel python projects)
+[Click here to watch project videos on Codebasics Youtube Channel](https://www.youtube.com/playlist?list=PLeo1K3hjS3usVcPj6osMx1tNkARllcRhZ)
 
-## Run Guide
+### 1. Snake and apple game
+In this project we have build a complete snake and apple video game using pygame module. 
 
-To run this program, run:
-```bash
-leo run mint
-leo run transfer  # update private key first
-```
+[Click here to go to this project](https://github.com/codebasics/python_projects/tree/main/1_snake_game)
 
-## Execute Guide
 
-To execute this program, run:
-```bash
-leo execute mint
-leo execute transfer  # update private key first
-```
+### 2. Document text extraction using OCR (Coming up soon)
+
+
